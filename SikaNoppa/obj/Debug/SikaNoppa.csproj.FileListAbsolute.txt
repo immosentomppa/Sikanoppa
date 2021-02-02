@@ -1,0 +1,82 @@
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\bin\Debug\SikaNoppa.exe.config
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\bin\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\bin\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.csprojResolveAssemblyReference.cache
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Properties.Resources.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.csproj.GenerateResource.Cache
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Aloitus.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Pelaajat.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Vastustaja.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.PeliKaveri.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.PelaajaKone.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.PeliKonetta.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.PeliKoneKonetta.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.PeliHaku.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\bin\Debug\SQLite.NET.dll
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\bin\Debug\System.Data.SQLite.dll
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\bin\Debug\System.Data.SQLite.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\bin\Debug\System.Data.SQLite.xml
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.LopetusPelaaja.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\bin\Debug\SikaNoppa.exe.config
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.csprojResolveAssemblyReference.cache
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.Aloitus.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.LopetusPelaaja.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.PelaajaKone.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.Pelaajat.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.PeliHaku.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.PeliKaveri.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.PeliKoneKonetta.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.PeliKonetta.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.UusiPeli.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.Vastustaja.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.Properties.Resources.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\obj\Debug\SikaNoppa.csproj.GenerateResource.Cache
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\bin\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\bin\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\bin\Debug\SQLite.NET.dll
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\bin\Debug\System.Data.SQLite.dll
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\bin\Debug\System.Data.SQLite.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa _testailua\SikaNoppa\bin\Debug\System.Data.SQLite.xml
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\bin\Debug\SikaNoppa.exe.config
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.csprojResolveAssemblyReference.cache
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.Aloitus.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.PelaajaKone.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.Pelaajat.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.PeliHaku.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.UusiPeli.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.Vastustaja.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.Properties.Resources.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.csproj.GenerateResource.Cache
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\bin\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\bin\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\bin\Debug\SQLite.NET.dll
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\bin\Debug\System.Data.SQLite.dll
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\bin\Debug\System.Data.SQLite.pdb
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\bin\Debug\System.Data.SQLite.xml
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.JatkaPelia.resources
+Z:\Ohjelmointi_2\VisuProjektit\SikaNoppa_testailua\SikaNoppa\obj\Debug\SikaNoppa.TallennusPeli.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\bin\Debug\SikaNoppa.exe.config
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\bin\Debug\SikaNoppa.exe
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\bin\Debug\SikaNoppa.pdb
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\bin\Debug\System.Data.SQLite.dll
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\bin\Debug\System.Data.SQLite.pdb
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\bin\Debug\System.Data.SQLite.xml
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.csprojResolveAssemblyReference.cache
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Aloitus.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.JatkaPelia.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.TallennusPeli.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.PelaajaKone.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Pelaajat.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.PeliHaku.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.UusiPeli.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Vastustaja.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.Properties.Resources.resources
+Z:\Ohjelmointi_2\Sikanoppa\SikaNoppa\SikaNoppa\obj\Debug\SikaNoppa.csproj.GenerateResource.Cache
